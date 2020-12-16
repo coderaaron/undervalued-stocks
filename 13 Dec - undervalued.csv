@@ -1,0 +1,466 @@
+Symbol, Total Value, Profitable Value, Giveaway Value, Best Future Value, earningsQuarterlyGrowth, priceToBook, forwardPE, pegRatio, 52WeekChange, marketPrice, Industry, earningsDate, recommendation
+AFL,227,16,2,33,2.161,0.9713407,9.226337,1.5,-0.15507817,45.35,Financial Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":10,"sell":1,"strongSell":1}
+ALL,377,133,4,22,0.238,1.2551533,8.517944,1.04,-0.0473454,105.42,Financial Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":4,"hold":7,"sell":0,"strongSell":2}
+BMY,386,100,87,17,0.384,2.7356281,8.150336,0.44,-0.043779492,60.2,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":4,"hold":11,"sell":2,"strongSell":0}
+CNC,393,6,74,60,4.979,1.3681434,11.098721,0.94,0.011496186,61.31,Healthcare,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":7,"hold":5,"sell":0,"strongSell":0}
+RE,467,29,124,38,1.328,0.96515167,9.59884,2.63,-0.1619206,235.82,Financial Services,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":7,"sell":1,"strongSell":0}
+ALXN,504,135,17,35,0.236,2.3923275,9.349305,0.91,0.08628893,118.87,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":12,"hold":3,"sell":0,"strongSell":0}
+FOX,563,32,193,77,1.216,1.5879685,12.221277,2.72,-0.19977713,28.685,Communication Services,undefined,{"period":"0m","strongBuy":1,"buy":1,"hold":1,"sell":0,"strongSell":0}
+GS,592,51,187,44,0.794,1.0571408,9.945711,1.23,0.052403092,244.4,Financial Services,1/12/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":15,"sell":2,"strongSell":0}
+ABBV,594,141,48,24,0.225,12.293642,8.702127,0.94,0.18908644,107.49,Healthcare,2/4/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":6,"hold":10,"sell":0,"strongSell":0}
+CPB,603,47,106,147,0.861,5.165773,15.478688,1.83,-0.015638053,47.31,Consumer Defensive,3/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":10,"sell":4,"strongSell":1}
+BK,606,269,67,50,-0.097,0.8829596,10.29156,2.21,-0.19776714,41.36,Financial Services,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":5,"hold":12,"sell":2,"strongSell":0}
+COF,611,50,66,45,0.805,0.79402816,10.128571,5.33,-0.1080035,94.67,Financial Services,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":9,"sell":2,"strongSell":0}
+GM,629,57,191,7,0.721,1.3540926,7.1171474,1,0.16089714,42.87,Consumer Cyclical,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":7,"hold":13,"sell":2,"strongSell":0}
+DHI,639,64,144,12,0.641,2.1492915,7.9263043,0.56,0.27806222,69.97,Consumer Cyclical,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":9,"sell":0,"strongSell":0}
+AMCR,644,18,19,146,2,3.434404,15.253333,2.88,0.06319702,11.53,Consumer Cyclical,11/4/2020, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+AAP,661,156,18,174,0.193,2.848625,16.595789,1.55,0.02710104,158.22,Consumer Cyclical,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":11,"sell":1,"strongSell":2}
+CI,673,229,76,47,0.027,1.5791062,10.182394,1.12,0.072874546,212.65,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":4,"sell":0,"strongSell":0}
+PBCT,679,203,317,76,0.07,0.71901923,12.168224,0.79,-0.22775799,13.2,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":9,"sell":2,"strongSell":0}
+AMGN,686,228,46,111,0.027,12.107981,13.368607,2.12,-0.064967096,228.16,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":15,"sell":0,"strongSell":0}
+KMX,693,123,103,176,0.27,3.8718054,16.713524,1.89,-0.04153061,94.34,Consumer Cyclical,12/21/2020, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":8,"sell":1,"strongSell":1}
+BBY,710,110,101,104,0.334,6.352213,13.219448,1.22,0.17263079,103.03,Consumer Cyclical,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":16,"sell":0,"strongSell":2}
+KR,716,28,273,69,1.399,2.3901768,11.6505575,1.16,0.10702932,31.21,Consumer Defensive,3/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":3,"hold":14,"sell":1,"strongSell":1}
+BWA,728,362,78,41,-0.428,1.8771524,9.712766,2.36,-0.17263252,38.28,Consumer Cyclical,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":6,"hold":10,"sell":3,"strongSell":0}
+ATO,731,176,9,211,0.119,1.8363639,18.414497,2.75,-0.08632296,98.17,Utilities,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":5,"sell":1,"strongSell":0}
+LH,739,15,274,53,2.187,2.4135242,10.722689,0.82,0.22024989,207.59,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":10,"hold":6,"sell":0,"strongSell":0}
+LKQ,740,122,271,112,0.271,2.0706015,13.379562,0.45,0.020033479,36.57,Consumer Cyclical,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":1,"sell":0,"strongSell":0}
+MRK,741,77,292,100,0.547,7.190778,13.044024,1.91,-0.07089263,82.99,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":10,"sell":0,"strongSell":0}
+CAG,744,45,81,119,0.893,2.1263156,13.648648,1.97,0.22743058,35.37,Consumer Defensive,1/6/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":6,"hold":2,"sell":1,"strongSell":1}
+PHM,746,79,387,9,0.525,1.8200963,7.4038463,0.58,0.058220863,42.16,Consumer Cyclical,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":6,"hold":14,"sell":0,"strongSell":1}
+INTC,762,329,203,57,-0.286,2.7334688,10.905702,1.3,-0.13812828,50.26,Technology,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":18,"hold":13,"sell":3,"strongSell":2}
+PRU,764,215,316,5,0.049,0.4692604,6.7162395,2.07,-0.16837758,79.96,Financial Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":9,"sell":0,"strongSell":0}
+WU,765,59,497,58,0.693,135.76686,11.00995,1.42,-0.18429786,21.89,Financial Services,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":0,"hold":10,"sell":7,"strongSell":1}
+FOXA,767,31,195,75,1.216,1.6211433,12.165975,24.72,-0.20347738,29.11,Communication Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":11,"sell":1,"strongSell":0}
+GL,770,259,192,85,-0.064,1.3895686,12.361477,1.87,-0.11720371,94.88,Financial Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+ETR,779,91,138,190,0.427,1.9105154,17.244967,3.39,-0.13717264,103.26,Utilities,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":0,"hold":13,"sell":0,"strongSell":1}
+AMAT,782,66,38,170,0.62,7.6298285,16.504673,1.11,0.4726485,87.89,Technology,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":15,"hold":1,"sell":0,"strongSell":0}
+CVS,786,301,129,36,-0.2,1.3617426,9.493369,2.11,-0.03790325,72.21,Healthcare,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":10,"hold":9,"sell":0,"strongSell":0}
+EBAY,788,35,179,107,1.142,11.592732,13.2783785,0.81,0.38785303,49.6,Consumer Cyclical,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":10,"hold":20,"sell":2,"strongSell":0}
+DISCA,795,170,139,31,0.145,1.9531461,9.155063,5.63,-0.10571867,28.79,Communication Services,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":17,"sell":2,"strongSell":1}
+HPE,801,401,186,4,-0.673,0.96150756,6.698324,2.36,-0.25435323,12.12,Technology,2/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":16,"sell":2,"strongSell":0}
+TPR,804,4,402,62,10.585,3.215656,11.324325,0.47,0.15109897,29.62,Consumer Cyclical,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":13,"hold":13,"sell":1,"strongSell":0}
+UNM,804,253,445,2,-0.045,0.43494517,4.4664106,1.13,-0.23428756,23.81,Financial Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":7,"sell":3,"strongSell":0}
+AON,809,131,51,217,0.239,13.207583,19.040112,2.9,-0.014008939,206.24,Financial Services,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":11,"sell":2,"strongSell":0}
+TSN,809,46,455,55,0.875,1.6353552,10.826563,2.77,-0.2296831,69.41,Consumer Defensive,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":5,"sell":0,"strongSell":0}
+AEP,812,230,10,200,0.021,2.0169623,17.836208,3.37,-0.11039448,82.48,Utilities,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":11,"sell":0,"strongSell":0}
+CERN,812,11,107,292,3.353,5.1804214,23.139751,2.47,0.025320053,73.97,Healthcare,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":5,"hold":9,"sell":0,"strongSell":0}
+DTE,822,83,140,193,0.492,1.9645016,17.566011,2.93,-0.018904984,124.22,Utilities,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":6,"sell":1,"strongSell":0}
+HUM,822,43,211,203,0.945,3.282779,18.032734,1.78,0.06901169,397.48,Healthcare,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":5,"hold":7,"sell":0,"strongSell":0}
+AIG,824,385,1,28,-0.561,0.5252112,8.8764305,8.26,-0.25260115,39.39,Financial Services,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":7,"sell":1,"strongSell":1}
+ANTM,824,417,15,84,-0.812,2.2899418,12.332673,1.01,0.067242384,313.75,Healthcare,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":4,"hold":8,"sell":0,"strongSell":0}
+PFG,829,285,319,16,-0.148,0.855374,8.074504,1.53,-0.103162944,49.82,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":6,"sell":1,"strongSell":0}
+LEN,834,117,264,27,0.298,1.3251016,8.830097,0.86,0.2521081,72.29,Consumer Cyclical,12/15/2020, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":9,"sell":0,"strongSell":0}
+CB,836,191,70,113,0.094,1.2301168,13.438812,3.46,-0.011509001,153.68,Financial Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":11,"hold":1,"sell":1,"strongSell":1}
+ATVI,838,20,28,298,1.961,4.496507,23.638418,1,0.42774272,83.11,Communication Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":11,"hold":7,"sell":0,"strongSell":0}
+FISV,848,111,201,263,0.333,2.4285111,21.22366,1.49,-0.014505208,114.83,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":1,"hold":16,"sell":0,"strongSell":0}
+UHS,849,27,459,79,1.483,1.8862413,12.288765,1.97,-0.06578666,135.37,Healthcare,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":8,"hold":5,"sell":0,"strongSell":0}
+AVGO,852,73,113,142,0.563,6.8843727,14.908891,2.03,0.25590324,410.04,Technology,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":17,"hold":2,"sell":0,"strongSell":0}
+CBOE,856,222,90,189,0.037,3.060084,17.228458,4.78,-0.26577842,86.94,Financial Services,2/4/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":9,"sell":0,"strongSell":0}
+BDX,857,303,88,205,-0.21,2.96191,18.233658,2.04,-0.10074848,242.33,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":3,"hold":5,"sell":0,"strongSell":0}
+CSCO,859,318,104,102,-0.257,4.9037395,13.151336,2.28,-0.036102653,44.32,Technology,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":11,"hold":8,"sell":0,"strongSell":0}
+NOC,864,208,360,86,0.057,4.7873664,12.415118,1.72,-0.12799907,298.43,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":6,"hold":9,"sell":0,"strongSell":0}
+MU,865,54,270,49,0.761,2.0130148,10.281341,1.33,0.332263,71.28,Technology,1/6/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":20,"hold":3,"sell":0,"strongSell":0}
+LHX,866,241,268,135,-0.007,1.8293991,14.463303,1.2,-0.06039536,187.5,Industrials,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+DGX,879,23,396,73,1.642,2.5747252,12.145273,1.28,0.14955735,125.47,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":14,"sell":1,"strongSell":0}
+AKAM,881,167,23,216,0.15,4.1032853,18.857924,1.91,0.21087718,103.41,Technology,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":13,"sell":2,"strongSell":0}
+ED,884,218,72,167,0.042,1.3212694,16.29399,6.15,-0.17080355,73.35,Utilities,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":0,"hold":7,"sell":5,"strongSell":1}
+DLTR,885,119,155,188,0.29,3.600027,17.213247,1.85,0.1308639,108.29,Consumer Defensive,3/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":7,"hold":11,"sell":0,"strongSell":0}
+MAS,889,34,313,175,1.183,100.462105,16.67178,0.98,0.1539278,54.46,Industrials,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":11,"hold":8,"sell":0,"strongSell":0}
+FDX,890,61,156,165,0.671,3.9056873,16.225897,0.67,0.7639853,290.25,Industrials,12/16/2020, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":13,"hold":7,"sell":0,"strongSell":0}
+ADI,891,99,25,279,0.392,4.346822,22.298578,2.17,0.18753147,141.28,Technology,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":10,"hold":10,"sell":0,"strongSell":0}
+BAC,894,287,3,116,-0.155,1.0082936,13.604762,87.53,-0.17665708,29.11,Financial Services,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":16,"hold":7,"sell":0,"strongSell":1}
+STT,894,255,382,61,-0.048,1.1124694,11.165645,1.16,-0.08565688,71.73,Financial Services,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":13,"sell":0,"strongSell":0}
+EVRG,895,240,131,184,-0.006,1.4207299,17.068111,3.08,-0.12768984,55.1,Utilities,2/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+GPN,901,30,197,301,1.325,2.0717106,23.858385,1.82,0.07116556,194.17,Industrials,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":15,"hold":7,"sell":1,"strongSell":0}
+LNT,903,197,14,241,0.088,2.262009,20.11868,3.6,-0.033096492,51.86,Utilities,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":5,"sell":0,"strongSell":0}
+LMT,907,210,305,128,0.056,20.43213,13.848008,1.79,-0.06280613,355.39,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":3,"hold":12,"sell":0,"strongSell":0}
+FLIR,918,243,208,201,-0.022,3.0341475,17.884615,2.83,-0.20558089,41.97,Technology,10/29/2020, 7:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":4,"sell":0,"strongSell":0}
+HII,918,88,215,183,0.442,3.8280914,17.053741,29.5,-0.29570764,174.46,Industrials,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":7,"sell":0,"strongSell":1}
+WBA,940,370,457,14,-0.449,1.7419571,8.017375,1.24,-0.28148788,41.65,Healthcare,1/6/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":10,"hold":9,"sell":0,"strongSell":0}
+DVA,950,187,173,103,0.108,7.8265896,13.161605,0.75,0.4944812,111.91,Healthcare,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":8,"sell":2,"strongSell":0}
+FMC,955,136,226,152,0.232,5.130883,15.733784,1.84,0.16991568,117.66,Basic Materials,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":10,"hold":8,"sell":0,"strongSell":0}
+JNPR,959,86,267,108,0.464,1.5826714,13.284849,7.93,-0.09083372,21.97,Technology,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":4,"hold":19,"sell":2,"strongSell":0}
+CMS,960,211,93,256,0.053,3.1953936,20.835089,3.08,-0.040245652,59.44,Utilities,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":8,"sell":0,"strongSell":0}
+VRTX,965,3,481,224,10.604,7.1706867,19.4592,0.85,0.02127564,224.04,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":12,"hold":5,"sell":0,"strongSell":0}
+DG,976,72,171,249,0.571,7.246423,20.578686,1.2,0.35242522,205.87,Consumer Defensive,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":14,"sell":0,"strongSell":2}
+OMC,978,201,350,70,0.08,5.2619143,11.679927,4.08,-0.21010154,63.96,Communication Services,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":9,"sell":3,"strongSell":0}
+MET,983,402,255,10,-0.677,0.5828732,7.538338,2.31,-0.06517434,47.55,Financial Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":6,"sell":0,"strongSell":1}
+BXP,987,291,85,401,-0.162,2.624216,35.83513,2.39,-0.26295608,101.9,Real Estate,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":15,"sell":0,"strongSell":0}
+CHTR,995,36,108,381,1.103,5.4715033,31.050978,0.9,0.3860451,658.04,Communication Services,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":12,"hold":9,"sell":0,"strongSell":0}
+FBHS,999,76,223,197,0.559,4.399049,17.708511,1.82,0.2714635,83.94,Consumer Cyclical,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":11,"sell":0,"strongSell":0}
+ABT,1000,121,34,306,0.283,6.043255,24.322725,2.26,0.23865736,106.52,Healthcare,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":7,"sell":0,"strongSell":0}
+AJG,1001,96,22,325,0.4,3.9965348,25.683084,2.32,0.26226068,119.51,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":8,"sell":1,"strongSell":0}
+IPG,1002,60,214,98,0.689,3.4239907,13,13.18,0.04499781,23.64,Communication Services,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":5,"hold":5,"sell":1,"strongSell":0}
+LEG,1005,213,281,150,0.052,4.1984496,15.653991,3.95,-0.19558424,42.55,Consumer Cyclical,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":3,"sell":0,"strongSell":0}
+ORLY,1006,108,376,223,0.347,46.279575,19.34946,1.5,0.016843796,446,Consumer Cyclical,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":5,"hold":10,"sell":0,"strongSell":0}
+BAX,1008,250,100,282,-0.035,4.730503,22.47592,2.89,-0.053899407,79.16,Healthcare,10/28/2020, 7:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":9,"sell":1,"strongSell":0}
+DRI,1011,415,167,208,-0.788,6.1794863,18.358307,0.93,-0.028443336,115.44,Consumer Cyclical,12/17/2020, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":3,"hold":17,"sell":1,"strongSell":0}
+GOOGL,1012,69,32,360,0.591,5.649189,28.981058,2.07,0.30432868,1767.65,Communication Services,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":13,"buy":25,"hold":5,"sell":0,"strongSell":0}
+CDW,1014,252,241,225,-0.042,15.069756,19.536621,2.13,-0.07100719,131.71,Technology,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":5,"hold":3,"sell":1,"strongSell":0}
+AVY,1015,219,43,257,0.041,9.379728,20.863699,2.48,0.14677775,150.8,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":4,"sell":0,"strongSell":0}
+GOOG,1019,70,33,362,0.591,5.6713743,29.094872,2.07,0.30899882,1775.33,Communication Services,undefined,{"period":"0m","strongBuy":2,"buy":3,"hold":0,"sell":0,"strongSell":0}
+ADM,1023,367,7,127,-0.447,1.433299,13.797785,3.21,0.08329713,49.2,Consumer Defensive,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":12,"sell":1,"strongSell":1}
+HAS,1023,224,222,238,0.037,4.3967986,19.910515,3.1,-0.12966949,88.68,Consumer Cyclical,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":7,"sell":0,"strongSell":0}
+BLL,1024,25,45,346,1.62,10.489463,27.718565,2.3,0.44724095,93.26,Consumer Cyclical,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":6,"sell":0,"strongSell":0}
+DFS,1038,238,150,64,0.001,2.781629,11.370572,38.53,-0.03099966,84.16,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":8,"hold":8,"sell":1,"strongSell":0}
+BLK,1039,143,92,235,0.219,3.1297975,19.800627,2.04,0.3847227,698.41,Financial Services,1/12/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":9,"hold":3,"sell":0,"strongSell":0}
+DE,1040,214,168,172,0.05,6.2098184,16.53329,0.75,0.47972226,253.45,Industrials,2/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":14,"sell":1,"strongSell":0}
+TRV,1042,37,443,95,1.088,1.2274319,12.913876,3.5,-0.00903213,136.71,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":13,"sell":2,"strongSell":1}
+ADP,1043,225,49,342,0.034,12.824625,27.413902,2.76,0.029301882,172,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":16,"sell":0,"strongSell":0}
+IQV,1048,52,284,265,0.772,5.502689,21.37707,2.02,0.14522624,168.47,Healthcare,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":8,"sell":0,"strongSell":0}
+ALLE,1049,179,47,296,0.116,12.26413,23.216103,23.52,-0.09929311,110.65,Industrials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":3,"sell":0,"strongSell":0}
+SEE,1050,41,439,130,0.971,283.35443,13.947041,1.85,0.16014516,45.4,Consumer Cyclical,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":6,"hold":7,"sell":0,"strongSell":0}
+AXP,1057,356,26,199,-0.389,4.4257526,17.759232,3.98,-0.027894557,121.84,Financial Services,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":4,"hold":16,"sell":2,"strongSell":0}
+K,1062,94,290,148,0.409,7.0133243,15.488777,8.7,-0.06291491,61.98,Consumer Defensive,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":15,"sell":2,"strongSell":1}
+PKI,1063,17,349,187,2.018,5.056775,17.184708,0.99,0.526811,145.91,Healthcare,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":7,"sell":2,"strongSell":0}
+MMM,1064,272,41,210,-0.107,8.449213,18.375923,5.08,0.019150853,173.49,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":1,"hold":7,"sell":3,"strongSell":0}
+AEE,1066,235,13,248,0.008,2.2559042,20.549072,6.39,0.022571206,77.34,Utilities,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":6,"sell":1,"strongSell":0}
+HSY,1075,105,237,284,0.375,15.022164,22.695585,3.14,0.015874147,149.7,Consumer Defensive,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":12,"sell":2,"strongSell":0}
+GIS,1080,140,220,161,0.227,4.294194,16.07588,3.32,0.13249326,58.87,Consumer Defensive,12/16/2020, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":15,"sell":3,"strongSell":1}
+JNJ,1082,39,286,181,1.027,6.244386,16.994444,4.34,0.07870793,152.25,Healthcare,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":8,"sell":2,"strongSell":1}
+LDOS,1082,233,278,168,0.012,4.039235,16.318886,1.51,0.15037096,104.82,Technology,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":6,"hold":0,"sell":0,"strongSell":0}
+ORCL,1083,209,368,109,0.057,20.94333,13.291667,1.63,0.12261522,59.48,Technology,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":16,"hold":9,"sell":0,"strongSell":1}
+FRC,1087,130,200,273,0.248,2.3011787,21.971188,2.56,0.11817479,130.32,Financial Services,1/11/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":13,"sell":0,"strongSell":0}
+SNA,1089,194,398,151,0.092,2.7079494,15.72,1.68,0.056328177,180.78,Industrials,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":2,"hold":2,"sell":0,"strongSell":0}
+CE,1098,307,109,133,-0.213,6.1232123,14.427313,4.16,0.059185028,130.97,Basic Materials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":6,"sell":1,"strongSell":0}
+ADBE,1099,24,52,403,1.641,17.186451,36.21842,2.34,0.4697653,476.87,Technology,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":14,"hold":6,"sell":0,"strongSell":0}
+QRVO,1102,63,404,158,0.649,3.9521515,15.949843,1.18,0.32730436,158.33,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":7,"hold":15,"sell":1,"strongSell":0}
+BEN,1109,408,189,19,-0.742,1.190954,8.447916,6.01,-0.07030952,24.26,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":0,"hold":8,"sell":4,"strongSell":0}
+REGN,1109,126,410,99,0.258,4.997031,13.033686,1.39,0.27595007,478.98,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":12,"sell":1,"strongSell":0}
+AOS,1113,150,31,299,0.207,5.208873,23.780592,3.55,0.22017753,56.31,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":8,"sell":0,"strongSell":0}
+APD,1114,249,30,318,-0.033,4.8917756,25.366222,2.85,0.1404196,268.82,Basic Materials,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":11,"hold":6,"sell":0,"strongSell":0}
+PNW,1114,185,327,154,0.109,1.5365638,15.754941,4.56,-0.08995432,80.74,Utilities,2/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":0,"hold":11,"sell":1,"strongSell":0}
+FLT,1117,292,231,267,-0.164,7.769261,21.566587,2.85,-0.11030197,273.39,Technology,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":1,"sell":0,"strongSell":0}
+OKE,1119,234,342,132,0.01,3.0057845,14.2363,27.07,-0.43357408,41.75,Energy,2/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":12,"sell":0,"strongSell":0}
+CBRE,1122,326,95,251,-0.282,3.308327,20.736677,2.19,0.11702132,66.33,Real Estate,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+SWK,1126,58,401,212,0.713,3.1637113,18.442104,2.69,0.06796706,177.64,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":11,"hold":8,"sell":0,"strongSell":0}
+ES,1128,198,143,274,0.086,2.103624,21.997437,3.62,0.045581937,85.69,Utilities,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":1,"hold":7,"sell":1,"strongSell":0}
+LRCX,1128,53,298,231,0.768,13.119348,19.636581,1.23,0.72981536,490.15,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":12,"hold":3,"sell":0,"strongSell":0}
+AMD,1129,14,56,437,2.25,28.489277,50.081966,1.95,1.1641088,91.66,Technology,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":15,"sell":4,"strongSell":1}
+EXPD,1129,155,166,283,0.194,6.1203923,22.50995,2.65,0.18659842,89.7,Industrials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":10,"sell":2,"strongSell":1}
+NVR,1129,169,361,94,0.146,5.1001,12.778998,3.59,0.037217617,3991.18,Consumer Cyclical,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":6,"sell":0,"strongSell":0}
+WAB,1132,95,452,185,0.406,1.4220035,17.128147,2.7,0.0012037754,75.4,Industrials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":7,"sell":0,"strongSell":0}
+BR,1142,162,117,308,0.177,12.071137,24.442055,2.66,0.22129393,146.22,Technology,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":5,"sell":0,"strongSell":0}
+INFO,1142,12,218,350,3.062,4.141208,28.091194,2.95,0.19249761,89.71,Industrials,1/11/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":5,"hold":10,"sell":1,"strongSell":0}
+NDAQ,1142,55,357,252,0.76,3.4291093,20.737623,2.03,0.19458175,124.99,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":6,"hold":6,"sell":1,"strongSell":0}
+ADSK,1143,40,61,444,0.982,887.873,54.09671,2.04,0.51694965,281.16,Technology,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":11,"hold":3,"sell":1,"strongSell":0}
+DUK,1146,248,133,194,-0.028,1.5296949,17.570057,7.53,0.011603475,91.76,Utilities,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":12,"sell":1,"strongSell":1}
+MS,1147,129,325,82,0.25,1.2497286,12.319066,3.03,0.24842262,64.44,Financial Services,1/13/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":14,"hold":9,"sell":0,"strongSell":1}
+QCOM,1147,7,422,207,4.85,26.852781,18.33291,0.91,0.63157296,155.75,Technology,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":13,"sell":0,"strongSell":0}
+JCI,1150,325,269,160,-0.279,1.8960207,15.982456,1.64,0.12192118,45.69,Industrials,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":10,"sell":0,"strongSell":0}
+FB,1152,120,169,328,0.288,6.6220436,26.127028,1.79,0.38212407,277.12,Communication Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":17,"buy":24,"hold":1,"sell":1,"strongSell":1}
+ACN,1156,174,42,347,0.139,9.170024,27.746052,3.22,0.19917071,246.16,Technology,12/16/2020, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":9,"hold":12,"sell":1,"strongSell":0}
+HBI,1159,366,219,29,-0.442,4.2290215,9.064936,11,-0.060565233,14.01,Consumer Cyclical,2/4/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":8,"sell":0,"strongSell":0}
+PEG,1162,92,334,173,0.427,1.797524,16.56305,15.05,-0.04835719,56.6,Utilities,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":6,"sell":0,"strongSell":0}
+WLTW,1165,67,465,179,0.613,2.5051167,16.906534,3.16,0.01605606,206.82,Financial Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":5,"sell":2,"strongSell":0}
+GLW,1166,124,84,218,0.267,2.6178932,19.058823,6.78,0.24528301,37.17,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":8,"sell":2,"strongSell":0}
+RJF,1168,304,386,92,-0.211,1.7724968,12.649314,2.42,0.014168024,92.65,Financial Services,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":4,"sell":0,"strongSell":0}
+SRE,1174,379,388,157,-0.53,1.8357571,15.90062,2.18,-0.1502921,128.73,Utilities,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":3,"hold":3,"sell":0,"strongSell":0}
+CTLT,1185,1,105,387,823,5.1023364,32.063972,2.83,0.79307103,95.18,Healthcare,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":4,"sell":0,"strongSell":0}
+HSIC,1186,237,209,213,0.008,3.158156,18.456463,4.42,0.01834321,71.31,Healthcare,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":4,"hold":7,"sell":0,"strongSell":0}
+CHD,1189,106,111,351,0.374,6.642166,28.147541,3.12,0.24564719,85.33,Consumer Defensive,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":13,"sell":5,"strongSell":0}
+STX,1189,180,426,72,0.115,9.161127,12.127341,3.06,0.09651208,64.82,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":19,"sell":3,"strongSell":2}
+AMZN,1190,19,53,460,1.967,18.899994,68.67386,2.45,0.76147544,3101.49,Consumer Cyclical,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":15,"buy":28,"hold":3,"sell":1,"strongSell":0}
+FLS,1192,284,204,289,-0.148,2.881672,23.037268,7.92,-0.2332024,36.74,Industrials,2/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":13,"sell":1,"strongSell":0}
+TROW,1193,161,408,144,0.178,4.810734,14.99901,1.8,0.22922754,149.34,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":9,"sell":3,"strongSell":0}
+COO,1195,339,99,304,-0.329,4.3541226,24.088068,2.77,0.06329751,347.8,Healthcare,3/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":3,"hold":5,"sell":0,"strongSell":0}
+FTNT,1196,78,234,399,0.539,29.212563,35.55679,2.04,0.1969415,127.56,Technology,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":15,"hold":7,"sell":2,"strongSell":0}
+EFX,1198,22,172,361,1.764,7.8108525,29.078827,2.94,0.36086798,183.39,Industrials,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":6,"sell":0,"strongSell":0}
+AMT,1200,260,55,422,-0.069,26.165934,39.894737,3.21,0.01957333,219.41,Real Estate,2/22/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":14,"hold":1,"sell":0,"strongSell":0}
+SWKS,1201,163,412,164,0.172,5.5372624,16.209547,1.55,0.23047018,145.54,Technology,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":15,"hold":5,"sell":1,"strongSell":0}
+ABMD,1212,10,44,440,3.76,9.877699,50.676476,3.49,0.4658841,267.93,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":3,"hold":2,"sell":0,"strongSell":0}
+KEYS,1224,181,291,255,0.113,7.0982976,20.80725,2.13,0.20091283,124.76,Technology,2/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":2,"sell":0,"strongSell":0}
+APH,1229,134,39,384,0.237,7.756201,31.192858,4.65,0.21541882,131.41,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":6,"sell":0,"strongSell":0}
+CMCSA,1230,353,86,196,-0.372,2.7040086,17.684027,3.47,0.16999769,50.48,Communication Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":12,"buy":18,"hold":1,"sell":0,"strongSell":0}
+MLM,1230,160,276,324,0.184,2.8918376,25.66763,3.84,-0.026912808,266.74,Basic Materials,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":4,"hold":4,"sell":0,"strongSell":0}
+HD,1234,132,249,264,0.239,185.38892,21.369143,2.95,0.22743928,264.81,Consumer Cyclical,2/22/2021, 6:00:00 PM,{"period":"0m","strongBuy":12,"buy":12,"hold":9,"sell":0,"strongSell":0}
+KMB,1246,331,303,192,-0.297,138.21138,17.480719,2.91,0.0013252497,134.06,Consumer Defensive,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":12,"sell":1,"strongSell":0}
+DOV,1248,247,161,226,-0.028,5.3870397,19.544283,6.43,0.07283664,121.37,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":12,"sell":0,"strongSell":0}
+KLAC,1250,146,301,239,0.214,14.498847,19.92498,1.76,0.4973266,255.98,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":7,"sell":1,"strongSell":0}
+TGT,1255,93,415,242,0.42,6.455749,20.224972,1.46,0.36321056,172.4,Consumer Defensive,2/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":18,"sell":3,"strongSell":1}
+FIS,1260,419,137,278,-0.87,1.8691992,22.26205,2.2,0.0788995,147.12,Technology,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":10,"hold":4,"sell":0,"strongSell":0}
+PNR,1261,152,347,220,0.2,4.17627,19.273407,3.19,0.12064457,51.12,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":4,"hold":10,"sell":3,"strongSell":0}
+CME,1262,348,82,334,-0.353,2.3922765,26.865871,9.36,-0.11275709,182.48,Financial Services,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":5,"sell":0,"strongSell":0}
+AVB,1265,373,11,428,-0.472,2.1200805,43.066315,14.95,-0.2245307,162.52,Real Estate,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":11,"sell":0,"strongSell":1}
+PPG,1267,151,363,262,0.204,6.357813,21.20623,3.06,0.07264531,143.33,Basic Materials,1/13/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":10,"sell":0,"strongSell":0}
+A,1269,172,37,356,0.144,7.4398746,28.549398,3.46,0.40296042,118.81,Healthcare,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":4,"hold":3,"sell":0,"strongSell":0}
+ESS,1269,320,149,448,-0.258,2.6150532,56.862473,3.77,-0.18954116,245.41,Real Estate,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":6,"hold":16,"sell":1,"strongSell":1}
+TMO,1271,26,413,291,1.543,5.870654,23.107353,1.55,0.46640337,468.74,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":6,"hold":1,"sell":0,"strongSell":0}
+CPRT,1272,265,115,390,-0.082,10.189009,33.42286,1.65,0.29703963,114.75,Industrials,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":9,"sell":0,"strongSell":0}
+MDT,1275,396,277,219,-0.641,3.0144043,19.210257,2.67,-0.018858075,112.68,Healthcare,2/22/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":12,"sell":0,"strongSell":0}
+IFF,1276,343,196,202,-0.333,1.9535195,18.025974,11.51,-0.07466668,112.59,Basic Materials,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":10,"sell":1,"strongSell":0}
+IP,1277,358,202,114,-0.407,2.6950786,13.470915,7.15,0.052597404,48.64,Consumer Cyclical,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":5,"hold":7,"sell":1,"strongSell":0}
+LOW,1279,345,306,182,-0.34,29.13959,17.043198,0.8,0.31429052,160.22,Consumer Cyclical,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":10,"hold":13,"sell":0,"strongSell":1}
+WMB,1283,98,462,206,0.398,2.2111313,18.275,6.11,-0.03900087,22,Energy,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":5,"sell":0,"strongSell":0}
+DHR,1286,114,158,383,0.323,4.5810046,31.162954,2.45,0.4774828,223.21,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":4,"sell":0,"strongSell":0}
+XRAY,1286,352,147,286,-0.367,2.4308074,22.827587,7.44,-0.0792768,54.09,Healthcare,2/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":3,"hold":4,"sell":1,"strongSell":0}
+ETSY,1287,5,246,463,5.2,32.04901,78.35023,1.38,2.9447799,165.3,Consumer Cyclical,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":9,"sell":0,"strongSell":0}
+FFIV,1287,294,159,145,-0.181,4.718489,15.148506,4.26,0.24289834,171.41,Technology,1/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":16,"sell":2,"strongSell":0}
+NTAP,1287,364,373,131,-0.436,37.084583,14.178899,3.14,-0.027069569,61.12,Technology,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":11,"hold":13,"sell":2,"strongSell":0}
+USB,1287,293,453,137,-0.172,1.4824396,14.506329,7.5,-0.24431258,46.12,Financial Services,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":21,"sell":2,"strongSell":0}
+AWK,1290,189,24,397,0.1,4.1276026,34.9717,4.54,0.22646809,148.07,Utilities,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":9,"sell":0,"strongSell":0}
+TSCO,1291,75,420,266,0.561,8.611353,21.431223,1.33,0.4795134,135.95,Consumer Cyclical,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":2,"hold":19,"sell":0,"strongSell":0}
+CDNS,1292,68,119,424,0.592,13.799046,41.29617,2.82,0.7161888,117.45,Technology,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":5,"sell":1,"strongSell":0}
+GRMN,1292,104,224,297,0.375,4.456184,23.50593,4.43,0.21627975,118.6,Technology,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":10,"sell":3,"strongSell":0}
+MMC,1295,217,289,276,0.043,6.813031,22.114944,3.74,0.033945322,115.37,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":8,"sell":0,"strongSell":0}
+LLY,1296,251,307,237,-0.036,30.05446,19.880745,1.62,0.30272686,161,Healthcare,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":8,"sell":1,"strongSell":0}
+EMR,1298,236,164,258,0.008,5.864105,20.918781,7.85,0.08219528,81.36,Industrials,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":13,"sell":1,"strongSell":1}
+PG,1302,157,364,290,0.19,7.1572375,23.05912,2.88,0.087209225,135.51,Consumer Defensive,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":4,"hold":10,"sell":2,"strongSell":0}
+EW,1304,159,180,416,0.184,12.454506,38.263638,3.74,0.074821234,86.74,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":9,"hold":4,"sell":0,"strongSell":1}
+ICE,1310,321,210,287,-0.263,3.2094617,22.861343,2.26,0.17936492,109.24,Financial Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":8,"hold":3,"sell":0,"strongSell":0}
+SIVB,1311,62,394,253,0.67,2.4313805,20.74096,2.31,0.39280307,353.73,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":9,"hold":4,"sell":0,"strongSell":0}
+PWR,1315,153,393,186,0.197,2.4100456,17.159525,1.68,0.7720679,73.01,Industrials,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":2,"sell":0,"strongSell":0}
+NEM,1319,390,337,120,-0.615,2.0886996,13.658933,0.69,0.43620384,59.18,Basic Materials,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":9,"hold":7,"sell":0,"strongSell":0}
+CHRW,1322,261,112,277,-0.071,6.7587957,22.13064,4.83,0.20921469,92.21,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":15,"sell":3,"strongSell":0}
+TER,1322,65,427,300,0.639,9.609363,23.836777,1.1,0.688671,115.68,Technology,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":6,"sell":0,"strongSell":0}
+JBHT,1325,206,285,293,0.06,5.900671,23.148333,2.56,0.21311903,137.02,Industrials,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":6,"hold":9,"sell":0,"strongSell":0}
+AAPL,1334,263,60,352,-0.074,31.803066,28.270208,2.46,0.7495892,123.24,Technology,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":21,"hold":6,"sell":0,"strongSell":0}
+MCO,1337,138,353,332,0.229,34.459225,26.586643,2.62,0.1632359,273.98,Financial Services,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":10,"sell":0,"strongSell":0}
+SO,1337,256,392,204,-0.049,2.2559085,18.198795,4.36,-0.02970934,60.5,Utilities,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":8,"sell":2,"strongSell":2}
+CTAS,1342,154,114,404,0.196,10.125,36.63274,3.25,0.33897126,347.35,Industrials,12/21/2020, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":8,"sell":1,"strongSell":0}
+SYY,1342,378,435,303,-0.522,29.710258,24.012657,1.68,-0.09913337,77.24,Consumer Defensive,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":9,"sell":1,"strongSell":0}
+PGR,1343,48,344,171,0.819,3.1418302,16.530647,7.6,0.32756686,94.2,Financial Services,12/17/2020, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":4,"hold":8,"sell":1,"strongSell":1}
+MSFT,1345,116,297,355,0.301,13.0730095,28.548862,2.14,0.37118244,210.52,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":14,"buy":13,"hold":6,"sell":0,"strongSell":1}
+KO,1346,340,118,317,-0.33,12.321016,25.28436,9.81,-0.019661903,53.05,Consumer Defensive,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":13,"sell":1,"strongSell":0}
+CMI,1346,299,157,162,-0.195,4.202979,16.089771,9.18,0.20268416,219.55,Industrials,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":14,"sell":1,"strongSell":2}
+EXR,1346,205,165,382,0.061,5.964988,31.098593,5.46,0.069352984,110.02,Real Estate,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":11,"sell":1,"strongSell":0}
+WRB,1348,266,460,228,-0.082,1.9260383,19.574018,3.14,-0.06467438,64.84,Financial Services,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":9,"sell":2,"strongSell":0}
+EQR,1352,399,142,450,-0.658,2.0934858,57.784313,5.19,-0.2768098,59.79,Real Estate,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":17,"sell":3,"strongSell":1}
+CLX,1354,38,244,315,1.044,22.802078,25.184769,5.75,0.3307606,200.6,Consumer Defensive,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":13,"sell":1,"strongSell":0}
+KSU,1358,212,280,295,0.053,4.127801,23.207792,2.36,0.28485525,194.95,Industrials,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":11,"sell":0,"strongSell":0}
+MXIM,1358,148,299,349,0.209,13.155757,27.884106,1.92,0.39259136,84.52,Technology,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":8,"hold":14,"sell":1,"strongSell":0}
+VZ,1360,290,472,71,-0.161,3.8380818,12.07,5.5,-0.014372051,60.51,Communication Services,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":6,"hold":24,"sell":0,"strongSell":0}
+GWW,1361,226,232,272,0.03,10.162691,21.954844,3.84,0.19663715,402.32,Industrials,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":16,"sell":6,"strongSell":0}
+CTXS,1362,395,250,246,-0.637,233.72092,20.478056,2.07,0.1696508,132.67,Technology,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":10,"sell":1,"strongSell":2}
+EMN,1363,357,146,139,-0.395,2.2848353,14.518414,4.58,0.29878366,102.98,Basic Materials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":9,"hold":7,"sell":0,"strongSell":0}
+ROK,1363,2,434,326,31.432,27.893724,25.943216,3.31,0.20698595,246.77,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":3,"hold":15,"sell":3,"strongSell":0}
+EA,1364,414,160,285,-0.783,4.8707004,22.74707,1.79,0.28452516,134.68,Communication Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":14,"hold":5,"sell":0,"strongSell":0}
+LW,1371,312,308,319,-0.228,34.059055,25.421053,3.87,-0.07967132,76.39,Consumer Defensive,1/6/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":3,"sell":0,"strongSell":0}
+UNH,1374,271,475,214,-0.103,4.903764,18.540705,1.61,0.15423071,339.65,Healthcare,1/12/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":11,"hold":0,"sell":0,"strongSell":0}
+IRM,1391,397,294,275,-0.643,9.339071,22.014492,3.41,-0.04465407,30.29,Real Estate,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":2,"sell":1,"strongSell":0}
+LIN,1394,254,275,338,-0.048,2.8348641,27.28665,2.65,0.18750584,250.95,Basic Materials,11/4/2020, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+HRL,1395,268,217,316,-0.083,3.96572,25.240643,6.5,0.051927805,46.6,Consumer Defensive,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":8,"sell":1,"strongSell":0}
+IEX,1395,242,228,394,-0.013,6.0909233,34.08657,2.88,0.15388751,191.87,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":11,"sell":0,"strongSell":0}
+MCHP,1397,337,288,236,-0.324,6.7222834,19.832157,1.82,0.36170828,139.91,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":6,"hold":5,"sell":0,"strongSell":0}
+COST,1398,102,178,396,0.382,11.181328,34.699352,5.09,0.27802384,372.79,Consumer Defensive,3/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":11,"hold":11,"sell":0,"strongSell":0}
+CL,1400,149,248,330,0.208,111.12861,26.298136,4.16,0.22956288,84.59,Consumer Defensive,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":17,"sell":1,"strongSell":0}
+CSX,1410,280,162,259,-0.14,5.440053,20.932869,5.11,0.24234092,90,Industrials,1/13/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":12,"hold":7,"sell":2,"strongSell":0}
+MDLZ,1419,308,343,245,-0.215,3.046224,20.427048,3.45,0.06870234,57.18,Consumer Defensive,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":13,"hold":4,"sell":0,"strongSell":0}
+XEL,1421,173,464,271,0.144,2.479118,21.88552,3.77,0.031255007,65.18,Utilities,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":1,"hold":9,"sell":0,"strongSell":0}
+PEP,1424,195,367,302,0.091,14.870244,24.001656,4.45,0.05771196,144.67,Consumer Defensive,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":10,"hold":10,"sell":0,"strongSell":0}
+ALB,1427,350,20,393,-0.366,3.5783412,33.98284,2.37,1.0944109,141.43,Basic Materials,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":6,"hold":12,"sell":0,"strongSell":0}
+INTU,1430,13,242,410,2.474,18.247934,37.366154,5.65,0.38261867,362.5,Technology,2/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":3,"hold":11,"sell":2,"strongSell":0}
+PVH,1430,400,384,140,-0.666,1.4342186,14.557099,9.12,-0.09732056,94.64,Consumer Cyclical,12/1/2020, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":8,"hold":4,"sell":0,"strongSell":0}
+ALGN,1435,107,50,453,0.359,13.180494,60.728138,5.68,0.87800443,508.39,Healthcare,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":4,"hold":0,"sell":0,"strongSell":0}
+CTSH,1435,334,98,233,-0.3,3.7986262,19.77582,8.77,0.27327287,78.38,Technology,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":14,"hold":9,"sell":0,"strongSell":0}
+WEC,1441,175,466,288,0.139,2.7840993,23.002491,4.01,0.017764568,91.98,Utilities,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":1,"hold":6,"sell":1,"strongSell":0}
+PH,1442,258,362,221,-0.052,5.418713,19.302881,2.55,0.3231851,274.44,Industrials,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":7,"sell":0,"strongSell":0}
+RMD,1445,85,421,412,0.485,11.06345,37.459705,1.84,0.31108975,208.73,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":2,"sell":3,"strongSell":1}
+SYK,1448,112,416,322,0.333,6.7195277,25.600883,3.86,0.13684213,235.13,Healthcare,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":6,"hold":8,"sell":1,"strongSell":1}
+ANET,1452,298,35,354,-0.194,6.8017163,28.328907,5.19,0.3961941,276.37,Technology,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":11,"hold":9,"sell":0,"strongSell":0}
+WY,1461,21,467,371,1.859,2.8011205,29.90654,5.29,0.079257965,31.75,Real Estate,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":8,"sell":0,"strongSell":0}
+TDY,1463,274,424,395,-0.12,4.721816,34.41474,1.36,0.116068125,391.79,Technology,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":2,"sell":0,"strongSell":0}
+IT,1467,387,233,415,-0.59,13.337643,38.214813,3.23,-0.02007091,156.01,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":5,"hold":4,"sell":0,"strongSell":0}
+NEE,1474,97,358,365,0.398,3.877476,29.52,3.67,0.23272228,73.28,Utilities,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":8,"hold":2,"sell":0,"strongSell":0}
+PSA,1475,295,419,376,-0.184,8.010338,30.353104,1.92,0.06731987,216.58,Real Estate,2/22/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":0,"hold":14,"sell":3,"strongSell":0}
+SPG,1478,407,431,359,-0.731,15.721696,28.72549,3.53,-0.3962083,90.44,Real Estate,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":10,"hold":5,"sell":0,"strongSell":0}
+EL,1481,275,181,419,-0.121,19.953718,38.946117,3.38,0.2044797,246.53,Consumer Defensive,2/4/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":12,"hold":5,"sell":0,"strongSell":0}
+WHR,1483,186,469,40,0.109,3.3828695,9.706068,51.2,0.23360145,182.41,Consumer Cyclical,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":4,"hold":8,"sell":0,"strongSell":0}
+POOL,1492,82,371,405,0.498,23.008652,36.75626,2.31,0.6214957,331.4,Consumer Cyclical,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":0,"hold":3,"sell":0,"strongSell":0}
+DXCM,1498,71,182,471,0.576,22.263412,106.987686,4.18,0.63697565,347.19,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":3,"hold":7,"sell":0,"strongSell":0}
+ODFL,1504,137,351,368,0.23,7.429787,29.615042,2.47,0.6191871,198.7,Industrials,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":9,"sell":1,"strongSell":0}
+PYPL,1505,33,366,434,1.21,13.5738735,47.358406,2.47,0.9536369,215.34,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":14,"buy":18,"hold":12,"sell":0,"strongSell":0}
+UPS,1506,177,489,240,0.118,26.019775,19.952606,2.23,0.41370034,164.24,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":19,"sell":1,"strongSell":0}
+RSG,1507,278,403,320,-0.128,3.6141553,25.532259,3.34,0.063724995,93.49,Industrials,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":8,"sell":0,"strongSell":0}
+FAST,1508,223,175,386,0.037,9.789139,31.954546,4.42,0.3154236,48.39,Industrials,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":3,"hold":9,"sell":0,"strongSell":0}
+TEL,1515,355,405,232,-0.382,4.161116,19.712856,2.05,0.24020588,118.47,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":4,"hold":3,"sell":1,"strongSell":0}
+VMC,1515,264,468,344,-0.074,3.102909,27.66534,3.37,-0.024376571,137.76,Basic Materials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":5,"hold":3,"sell":0,"strongSell":0}
+JKHY,1516,231,293,398,0.021,7.701661,35.094597,5.78,0.06448972,153.84,Technology,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":6,"sell":1,"strongSell":0}
+NKE,1521,183,372,407,0.11,23.31354,37.137836,1.91,0.39064884,137.58,Consumer Cyclical,12/17/2020, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":12,"hold":17,"sell":1,"strongSell":0}
+SHW,1521,142,430,335,0.224,15.463955,26.91423,3.09,0.24003029,719.82,Basic Materials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":8,"hold":7,"sell":0,"strongSell":0}
+WMT,1523,74,476,321,0.562,5.1105547,25.565218,3.87,0.21951222,147.04,Consumer Defensive,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":7,"hold":15,"sell":1,"strongSell":1}
+IR,1524,328,198,313,-0.286,2.1098733,25.039549,4.78,0.2249862,44.79,Industrials,2/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":2,"hold":14,"sell":0,"strongSell":0}
+MKC,1524,202,287,385,0.074,6.338286,31.883957,6.78,0.11466408,93.05,Consumer Defensive,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":10,"sell":1,"strongSell":0}
+TTWO,1531,101,417,392,0.383,7.17043,33.60601,2.21,0.55007744,187.82,Communication Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":10,"hold":3,"sell":1,"strongSell":0}
+ANSS,1537,286,40,435,-0.155,8.01667,47.54397,8.35,0.2994883,334.04,Technology,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":13,"sell":2,"strongSell":0}
+STE,1539,178,407,336,0.117,4.352867,27.06686,3.14,0.23529017,189.76,Healthcare,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":2,"sell":0,"strongSell":0}
+ZBH,1540,365,463,198,-0.437,2.4738522,17.732164,6.63,-0.05546671,145.99,Healthcare,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":9,"hold":9,"sell":1,"strongSell":0}
+MNST,1543,165,352,391,0.163,10.037632,33.59542,2.66,0.40854526,88.03,Consumer Defensive,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":10,"hold":4,"sell":0,"strongSell":0}
+WELL,1548,369,456,467,-0.448,1.6645079,97.34848,2.48,-0.18329728,64.03,Real Estate,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+NSC,1549,279,359,261,-0.134,3.999082,21.060877,3.54,0.23451936,236.5,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":17,"sell":2,"strongSell":0}
+ITW,1561,273,245,333,-0.118,23.897629,26.854881,13.63,0.14701068,202.55,Industrials,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":10,"sell":0,"strongSell":0}
+VRSK,1561,8,488,400,4.647,13.039592,35.7256,3.42,0.29594493,192.2,Industrials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":10,"sell":1,"strongSell":0}
+NVDA,1562,84,369,430,0.486,21.012838,44.527805,2.49,1.3119256,518.89,Technology,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":14,"hold":15,"sell":1,"strongSell":1}
+BKNG,1576,386,120,413,-0.589,17.415453,37.488068,296.25,0.04721248,2104.87,Consumer Cyclical,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+NFLX,1577,158,370,446,0.187,21.515242,55.727577,1.95,0.65418625,501.09,Communication Services,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":14,"hold":14,"sell":1,"strongSell":1}
+UNP,1591,276,483,268,-0.123,7.9697003,21.648188,3.41,0.12754738,202.52,Industrials,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":7,"hold":16,"sell":1,"strongSell":0}
+MTD,1598,128,312,423,0.25,61.482735,40.829884,3.81,0.46539605,1151.82,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":1,"hold":8,"sell":0,"strongSell":0}
+IDXX,1609,109,247,459,0.343,88.33108,67.79049,4.41,0.78584576,454.27,Healthcare,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":3,"sell":1,"strongSell":0}
+MKTX,1611,127,302,457,0.255,23.16611,66.063934,3.67,0.46166158,551.58,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":3,"hold":2,"sell":0,"strongSell":0}
+SPGI,1611,322,437,339,-0.263,176.8209,27.341751,2.41,0.19151914,325.83,Financial Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":9,"hold":4,"sell":0,"strongSell":0}
+CCI,1618,338,170,458,-0.326,7.1523175,67.09787,5.02,0.17234194,157.22,Real Estate,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":8,"sell":0,"strongSell":0}
+ILMN,1624,315,240,443,-0.235,10.624068,52.942726,12.51,0.043540716,343.71,Healthcare,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":5,"hold":6,"sell":1,"strongSell":0}
+MAA,1625,316,340,447,-0.238,2.3567014,56.064514,8.42,-0.06802505,120.18,Real Estate,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":7,"hold":7,"sell":0,"strongSell":0}
+RHI,1626,349,414,250,-0.354,6.0429215,20.709677,9.31,0.0374918,64.13,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":6,"sell":1,"strongSell":1}
+TJX,1642,216,429,309,0.046,14.246279,24.741571,33.34,0.09009898,66.52,Consumer Cyclical,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":14,"hold":4,"sell":0,"strongSell":0}
+REG,1643,413,383,417,-0.777,1.3190261,38.590164,9.51,-0.23794103,47.61,Real Estate,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":4,"hold":9,"sell":0,"strongSell":0}
+TFX,1644,375,425,374,-0.491,5.516597,30.23817,3.04,0.052513123,383.35,Healthcare,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":5,"hold":2,"sell":0,"strongSell":0}
+TXN,1649,257,432,345,-0.051,17.703924,27.691378,2.95,0.26394904,162,Technology,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":17,"sell":1,"strongSell":0}
+VAR,1650,200,482,357,0.083,7.671149,28.619673,3.33,0.21862352,174.88,Healthcare,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":6,"sell":0,"strongSell":0}
+ECL,1667,372,176,425,-0.47,10.500214,41.588345,6.78,0.1896441,223.08,Basic Materials,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":6,"hold":9,"sell":1,"strongSell":0}
+MA,1667,327,311,421,-0.282,56.354565,39.687275,5.01,0.1025728,331.52,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":14,"buy":20,"hold":4,"sell":1,"strongSell":0}
+SNPS,1674,139,418,389,0.229,7.3515787,33.24754,3.23,0.73052704,234.17,Technology,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":2,"sell":0,"strongSell":0}
+WM,1677,305,480,312,-0.212,6.8164907,25.034708,6.56,0.03017056,114.94,Industrials,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":5,"sell":1,"strongSell":0}
+MAR,1679,409,314,439,-0.742,182.0255,50.19922,73.87,-0.13110209,131.77,Consumer Cyclical,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":8,"hold":11,"sell":1,"strongSell":0}
+O,1681,412,391,426,-0.773,2.0244434,41.98611,8.46,-0.17223442,59.93,Real Estate,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":1,"hold":12,"sell":2,"strongSell":1}
+DRE,1691,403,151,455,-0.683,2.8383179,64.983055,12.26,0.11324048,38.24,Real Estate,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":10,"sell":0,"strongSell":0}
+PAYX,1696,300,365,372,-0.199,11.879932,30.006536,9.55,0.08138025,91.34,Industrials,12/22/2020, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":14,"sell":1,"strongSell":2}
+EQIX,1700,368,163,464,-0.448,5.8146853,81.5219,5.87,0.22398722,686.99,Real Estate,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":14,"hold":4,"sell":0,"strongSell":0}
+HON,1708,380,239,337,-0.533,8.332558,27.134008,14.22,0.21672344,211.97,Industrials,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":9,"hold":4,"sell":0,"strongSell":0}
+WST,1721,87,496,442,0.462,11.349097,51.558598,2.87,0.79273355,266.67,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":1,"hold":2,"sell":1,"strongSell":0}
+V,1730,330,493,375,-0.294,14.078777,30.329412,3.17,0.10738826,207.61,Financial Services,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":13,"buy":22,"hold":4,"sell":0,"strongSell":0}
+ROST,1734,398,428,311,-0.646,13.319952,24.960176,21.43,-0.013724983,113.32,Consumer Cyclical,2/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":11,"hold":8,"sell":0,"strongSell":0}
+VFC,1734,389,487,366,-0.604,11.473587,29.576792,6.26,-0.078477204,86.9,Consumer Cyclical,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":13,"sell":1,"strongSell":0}
+IPGP,1745,354,282,429,-0.378,4.5055394,43.913864,3.12,0.43387294,206.92,Technology,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":3,"sell":0,"strongSell":0}
+ROP,1746,288,406,358,-0.155,4.3395467,28.719263,6.43,0.19466388,415,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":5,"hold":3,"sell":0,"strongSell":0}
+ROL,1759,49,433,431,0.806,19.33052,44.71951,8.36,0.66833484,36.0933,Consumer Cyclical,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":3,"sell":0,"strongSell":0}
+CMG,1775,297,243,452,-0.186,20.14442,60.634327,4.64,0.57999,1317.23,Consumer Cyclical,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":23,"sell":4,"strongSell":1}
+ZBRA,1785,283,486,329,-0.147,10.421198,26.183079,3.08,0.47801924,375.14,Technology,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":5,"sell":0,"strongSell":0}
+ZTS,1792,188,501,409,0.106,21.04895,37.360657,4.2,0.2615056,158.12,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":7,"hold":7,"sell":0,"strongSell":0}
+UAA,1803,391,478,472,-0.619,5.3092146,122.64286,8.5,-0.15956926,17.6,Consumer Cyclical,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":19,"sell":6,"strongSell":4}
+ULTA,1831,361,484,314,-0.424,8.061666,25.084122,231.4,0.065395474,272.13,Consumer Cyclical,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":13,"sell":0,"strongSell":0}
+ISRG,1837,302,295,449,-0.209,9.645894,57.31523,11.36,0.28804827,758.07,Healthcare,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":5,"hold":5,"sell":1,"strongSell":0}
+TWTR,2002,309,477,451,-0.215,5.2180967,57.797752,3.86,0.6609622,51.21,Communication Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":21,"sell":10,"strongSell":1}
+XLNX,2012,282,499,427,-0.146,14.370068,43.062878,6.12,0.4923221,143.86,Technology,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":16,"sell":2,"strongSell":0}
+PAYC,2026,333,375,469,-0.298,38.612682,100.9262,9.09,0.63361335,426.99,Technology,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":2,"hold":5,"sell":0,"strongSell":0}
+TYL,2026,246,485,462,-0.027,9.574581,76.666664,8.1,0.5547507,449.59,Technology,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":7,"hold":3,"sell":0,"strongSell":0}
+NOW,2103,404,436,465,-0.683,39.200466,96.30107,4.37,0.9069519,538,Technology,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":13,"buy":17,"hold":4,"sell":0,"strongSell":0}
+FANG,10287,9999,122,90,-9999,0.82808656,12.558897,1.26,-0.42855513,49.94,Energy,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":19,"hold":2,"sell":0,"strongSell":0}
+MO,10288,9999,54,34,-9999,25.45885,9.347826,1.76,-0.15019763,42.95,Consumer Defensive,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":3,"hold":6,"sell":0,"strongSell":0}
+CXO,10300,9999,77,153,-9999,1.5804856,15.738806,0.44,-0.21627653,63.96,Energy,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":15,"hold":5,"sell":0,"strongSell":0}
+AIZ,10329,9999,6,83,-9999,1.3164471,12.322461,0.76,0.013801575,132.52,Financial Services,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":2,"sell":0,"strongSell":0}
+LNC,10377,9999,253,3,-9999,0.460334,5.369247,0.67,-0.15044683,52.65,Financial Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":6,"sell":1,"strongSell":0}
+F,10394,9,188,23,4.612,1.0833534,8.590477,9999,-0.039403617,9.12,Consumer Cyclical,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":4,"hold":18,"sell":2,"strongSell":0}
+DISCK,10415,171,135,13,0.145,1.7202268,7.9874606,9999,-0.15320706,25.48,Communication Services,11/4/2020, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":1,"sell":0,"strongSell":0}
+CINF,10423,42,73,260,0.952,1.3228718,21.041994,9999,-0.24153262,80.97,Financial Services,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":5,"sell":1,"strongSell":0}
+T,10429,317,5,39,-0.239,1.2585738,9.660436,9999,-0.19642395,30.69,Communication Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":3,"hold":20,"sell":0,"strongSell":1}
+FE,10453,166,199,68,0.161,2.2931762,11.59542,9999,-0.3737374,30.22,Utilities,2/4/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":5,"hold":11,"sell":0,"strongSell":0}
+CAH,10468,9999,116,26,-9999,11.221831,8.811688,1.87,0.010800719,55.45,Healthcare,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":1,"hold":15,"sell":0,"strongSell":0}
+AMP,10469,9999,21,46,-9999,3.749169,10.177282,1.61,0.14512658,192.85,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":5,"sell":0,"strongSell":0}
+C,10509,346,64,48,-0.343,0.69751203,10.213172,9999,-0.23377979,60.5,Financial Services,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":12,"hold":10,"sell":1,"strongSell":1}
+FITB,10521,207,123,74,0.058,0.9347328,12.151112,9999,-0.11578268,27.78,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":2,"hold":22,"sell":2,"strongSell":1}
+HIG,10534,281,185,21,-0.142,0.9482989,8.484405,9999,-0.24271208,47.4,Financial Services,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":6,"hold":11,"sell":0,"strongSell":0}
+CMA,10536,324,69,105,-0.277,0.97962296,13.238693,9999,-0.26666665,53.06,Financial Services,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":8,"hold":15,"sell":1,"strongSell":1}
+DISH,10557,90,132,97,0.428,1.492395,12.953237,9999,0.044676423,36.21,Communication Services,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":8,"hold":9,"sell":3,"strongSell":0}
+PRGO,10557,9999,322,59,-9999,1.1212476,11.092808,1.19,-0.11413747,48.76,Healthcare,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":11,"sell":1,"strongSell":0}
+AES,10560,9999,36,118,-9999,7.019582,13.645162,1.92,0.09189463,20.85,Utilities,2/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":4,"sell":0,"strongSell":0}
+BIIB,10581,381,97,37,-0.546,3.4536378,9.550237,9999,-0.19897145,242.98,Healthcare,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":8,"buy":13,"hold":11,"sell":0,"strongSell":0}
+CFG,10602,335,65,87,-0.301,0.73670614,12.498233,9999,-0.12211472,36,Financial Services,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":10,"sell":2,"strongSell":0}
+KEY,10612,227,259,66,0.029,0.97729516,11.478261,9999,-0.21233219,16.08,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":12,"hold":9,"sell":1,"strongSell":0}
+HBAN,10660,296,190,81,-0.185,1.2264061,12.314286,9999,-0.15710557,13.03,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":8,"hold":11,"sell":0,"strongSell":0}
+IBM,10660,232,227,52,0.016,5.221209,10.666953,9999,-0.073510826,124.96,Technology,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":15,"sell":3,"strongSell":0}
+BSX,10679,9999,91,247,-9999,3.0910761,20.487804,4.19,-0.25663722,34,Healthcare,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":8,"hold":6,"sell":0,"strongSell":0}
+RF,10682,118,379,56,0.296,0.91838545,10.867133,9999,-0.0986079,15.85,Financial Services,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":19,"sell":2,"strongSell":1}
+IVZ,10684,199,257,25,0.084,0.8266988,8.712195,9999,-0.0022345781,17.51,Financial Services,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":5,"sell":0,"strongSell":0}
+CNP,10690,382,80,149,-0.552,1.9976121,15.535714,9999,-0.17457306,21.8,Utilities,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":0,"hold":14,"sell":0,"strongSell":0}
+MTB,10690,310,261,78,-0.225,1.08718,12.241245,9999,-0.25989532,127.98,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":14,"sell":3,"strongSell":1}
+JPM,10696,221,265,101,0.04,1.5119058,13.12404,9999,-0.12945974,120.27,Financial Services,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":13,"sell":1,"strongSell":1}
+KMI,10725,270,260,163,-0.101,1.0580302,16.20879,9999,-0.28328472,14.79,Energy,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":8,"sell":0,"strongSell":0}
+EXC,10749,347,127,129,-0.351,1.2220013,13.91554,9999,-0.07852352,41.2,Utilities,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":8,"hold":2,"sell":1,"strongSell":0}
+KIM,10749,9999,262,364,-9999,1.1651789,29.5,1.61,-0.2769608,14.82,Real Estate,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":5,"hold":13,"sell":0,"strongSell":0}
+MHK,10749,115,323,122,0.319,1.1756444,13.708036,9999,-0.01892978,132.98,Consumer Cyclical,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":10,"hold":5,"sell":0,"strongSell":0}
+MCK,10753,9999,283,43,-9999,4.761334,9.873375,1.16,0.22827005,177.68,Healthcare,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":3,"hold":9,"sell":1,"strongSell":0}
+NRG,10784,341,348,15,-0.331,4.188865,8.053398,9999,-0.17298102,33.91,Utilities,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":1,"sell":0,"strongSell":0}
+GPC,10786,239,225,177,0,4.6464643,16.82149,9999,-0.07869011,97.04,Consumer Cyclical,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":1,"hold":8,"sell":2,"strongSell":0}
+GILD,10806,9999,221,32,-9999,4.3640018,9.20606,183.2,-0.08106482,60.45,Healthcare,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":11,"hold":15,"sell":0,"strongSell":0}
+PPL,10809,359,329,65,-0.408,1.5773509,11.414634,9999,-0.22537929,28.12,Utilities,2/11/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":1,"hold":12,"sell":0,"strongSell":0}
+STZ,10825,9999,96,244,-9999,3.3856122,20.265547,2.51,0.12247801,207.29,Consumer Defensive,12/2/2020, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":8,"hold":6,"sell":0,"strongSell":0}
+PNC,10837,204,324,178,0.07,1.2241176,16.822014,9999,-0.096477985,143.99,Financial Services,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":17,"sell":0,"strongSell":0}
+FCX,10838,9999,216,123,-9999,3.871323,13.748604,0.18,0.9003862,24.86,Basic Materials,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":12,"sell":4,"strongSell":0}
+HOLX,10840,9999,229,156,-9999,7.0740533,15.846481,0.63,0.3876027,76.25,Healthcare,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":7,"hold":5,"sell":0,"strongSell":0}
+SCHW,10850,323,83,243,-0.266,2.4449723,20.258196,9999,-0.005832672,50.1,Financial Services,1/13/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":9,"hold":5,"sell":0,"strongSell":0}
+COP,10871,9999,75,445,-9999,1.5151938,54.35,5.23,-0.3078637,44,Energy,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":9,"hold":6,"sell":0,"strongSell":0}
+WRK,10872,9999,449,88,-9999,1.0662844,12.544668,1.49,0.06430316,43.91,Consumer Cyclical,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":6,"sell":0,"strongSell":0}
+NTRS,10873,314,332,141,-0.234,1.7534641,14.746317,9999,-0.16735977,91.72,Financial Services,1/20/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":3,"hold":12,"sell":1,"strongSell":0}
+SJM,10886,192,266,125,0.093,1.5432339,13.759856,9999,0.12207711,115.87,Consumer Defensive,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":10,"sell":2,"strongSell":1}
+EOG,10887,9999,134,323,-9999,1.5518688,25.645933,39.33,-0.31202674,54.68,Energy,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":11,"hold":14,"sell":0,"strongSell":0}
+XRX,10903,388,447,51,-0.593,0.8604264,10.345454,9999,-0.3816898,22.86,Technology,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":3,"sell":0,"strongSell":0}
+D,10905,394,148,222,-0.635,2.5523868,19.306702,9999,-0.08243501,74.32,Utilities,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":14,"sell":0,"strongSell":0}
+HFC,10916,9999,184,470,-9999,0.8290093,105.69231,3.45,-0.4668219,28.44,Energy,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":3,"hold":9,"sell":3,"strongSell":0}
+ZION,10920,306,448,93,-0.212,0.9625199,12.668694,9999,-0.18577844,42.64,Financial Services,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":12,"sell":0,"strongSell":1}
+NWL,10928,9999,339,91,-9999,2.335459,12.582822,2.83,0.11406851,20.805,Consumer Defensive,2/11/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":6,"sell":0,"strongSell":0}
+CVX,10929,9999,71,388,-9999,1.3100839,33.017857,399.61,-0.22545242,93.35,Energy,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":10,"hold":7,"sell":1,"strongSell":0}
+SYF,10938,405,385,42,-0.704,1.6575919,9.808511,9999,-0.13206023,32.98,Financial Services,1/21/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":10,"hold":6,"sell":0,"strongSell":0}
+LYB,10943,420,279,80,-0.884,4.04479,12.291667,9999,-0.05499202,88.21,Basic Materials,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":15,"sell":2,"strongSell":0}
+DD,10947,9999,128,215,-9999,1.2973565,18.704226,9.4,0.02327013,66.57,Basic Materials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+APTV,10954,145,27,378,0.215,4.48291,30.713568,9999,0.2872789,124.15,Consumer Cyclical,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+EXPE,10965,9999,177,477,-9999,10.661236,180.91176,0.93,0.076949954,130.47,Consumer Cyclical,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":18,"hold":7,"sell":0,"strongSell":0}
+WFC,10970,384,446,136,-0.559,0.74665576,14.467662,9999,-0.46366656,29.49,Financial Services,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":15,"sell":4,"strongSell":0}
+AME,10983,262,29,348,-0.073,4.774542,27.854116,9999,0.1926254,118.35,Industrials,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":1,"sell":0,"strongSell":0}
+FRT,10984,9999,152,432,-9999,3.145499,45.76142,8.86,-0.29817045,91.43,Real Estate,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":7,"sell":1,"strongSell":0}
+LUV,10984,9999,399,478,-9999,2.7722056,183.52,0.45,-0.15584171,46.8,Industrials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":9,"hold":3,"sell":0,"strongSell":0}
+KHC,10986,344,258,115,-0.336,0.8465858,13.573705,9999,0.07340896,34.1,Consumer Defensive,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":10,"hold":5,"sell":0,"strongSell":0}
+NI,10991,9999,336,180,-9999,1.9295287,16.955555,10.52,-0.15752673,22.57,Utilities,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":2,"hold":8,"sell":0,"strongSell":0}
+PXD,11009,9999,330,281,-9999,1.6303412,22.440777,5.38,-0.19390386,118.79,Energy,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":24,"hold":5,"sell":0,"strongSell":0}
+LVS,11019,9999,300,418,-9999,13.553858,38.605442,2.92,-0.16666663,57.3,Consumer Cyclical,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":5,"sell":0,"strongSell":0}
+PSX,11024,9999,328,269,-9999,1.5395008,21.721876,185.79,-0.391011,70.86,Energy,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":7,"hold":9,"sell":1,"strongSell":1}
+FTV,11027,196,207,353,0.09,3.011334,28.326447,9999,0.07559419,68.93,Technology,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":7,"hold":10,"sell":0,"strongSell":0}
+TIF,11051,80,409,370,0.518,4.876254,29.822727,9999,-0.017814398,131.25,Consumer Cyclical,11/23/2020, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":7,"hold":13,"sell":0,"strongSell":0}
+NUE,11061,332,331,191,-0.297,1.659926,17.374233,9999,0.0026552677,57.11,Basic Materials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":6,"sell":0,"strongSell":0}
+GPS,11069,336,212,155,-0.321,3.2886436,15.795454,9999,0.22287393,21.63,Consumer Cyclical,3/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":19,"sell":3,"strongSell":0}
+RL,11077,9999,400,166,-9999,2.9118178,16.240385,54.35,-0.13907063,103.85,Consumer Cyclical,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":17,"sell":2,"strongSell":0}
+PCAR,11083,351,341,159,-0.366,2.905913,15.973832,9999,0.031876326,85.75,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":5,"hold":14,"sell":1,"strongSell":0}
+CTVA,11122,9999,126,280,-9999,1.1821765,22.319767,3.69,0.39346647,38.74,Basic Materials,2/2/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":1}
+ETN,11139,319,153,294,-0.258,3.183082,23.166334,9999,0.2287414,115.15,Industrials,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":15,"sell":2,"strongSell":0}
+PFE,11164,406,345,121,-0.714,3.501362,13.706666,9999,0.107319355,41.73,Healthcare,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":11,"hold":9,"sell":0,"strongSell":1}
+ARE,11174,9999,12,456,-9999,2.1498063,65.12453,527.8,0.1036644,171.01,Real Estate,1/31/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":6,"hold":5,"sell":0,"strongSell":0}
+CAT,11177,383,110,305,-0.553,6.5156083,24.261164,9999,0.23342037,178.85,Industrials,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":7,"hold":11,"sell":2,"strongSell":0}
+MOS,11203,9999,320,209,-9999,0.9876049,18.3719,7.75,0.14117038,22.25,Basic Materials,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":12,"sell":3,"strongSell":0}
+NWSA,11211,9999,326,411,-9999,1.3884808,37.416664,1.22,0.3080845,18.35,Communication Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":5,"sell":1,"strongSell":0}
+BIO,11225,9999,79,441,-9999,1.917436,50.693478,3.18,0.546131,554.78,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":2,"hold":0,"sell":0,"strongSell":0}
+TXT,11234,374,389,195,-0.477,1.8981389,17.640741,9999,0.08053541,48.03,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":4,"sell":2,"strongSell":0}
+PKG,11268,311,346,234,-0.226,3.9827273,19.792702,9999,0.23243344,135.56,Consumer Cyclical,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":11,"sell":0,"strongSell":0}
+DLR,11281,9999,145,473,-9999,2.1810906,122.89624,7.21,0.12797654,129.66,Real Estate,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":6,"hold":10,"sell":1,"strongSell":0}
+TMUS,11400,89,395,433,0.44,2.5243335,46.53546,9999,0.7388365,130.56,Communication Services,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":16,"hold":6,"sell":1,"strongSell":0}
+PLD,11428,342,338,461,-0.331,2.246188,74.9,9999,0.10196924,97.18,Real Estate,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":6,"sell":0,"strongSell":0}
+URI,11432,371,473,138,-0.468,4.1736293,14.512357,9999,0.45773792,241.98,Industrials,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":6,"buy":2,"hold":8,"sell":2,"strongSell":0}
+DIS,11444,9999,471,414,-9999,3.8052752,37.87069,3.05,0.18361843,154.69,Communication Services,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":10,"hold":12,"sell":2,"strongSell":1}
+VTR,11461,418,458,475,-0.85,1.7986139,144.26471,9999,-0.12830997,48.83,Real Estate,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":2,"hold":14,"sell":4,"strongSell":0}
+CRM,11552,9999,411,454,-9999,5.0431943,63.548573,3.42,0.37330198,222.92,Technology,2/22/2021, 6:00:00 PM,{"period":"0m","strongBuy":16,"buy":25,"hold":3,"sell":0,"strongSell":1}
+XYL,11648,363,479,408,-0.431,6.1863184,37.303032,9999,0.27432716,98.21,Industrials,2/5/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":7,"hold":6,"sell":0,"strongSell":0}
+ALK,20049,9999,8,9999,-9999,1.7858294,9999,0.32,-0.27710146,51.29,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":6,"hold":3,"sell":0,"strongSell":0}
+CCL,20069,9999,68,9999,-9999,0.9368546,9999,0.08,-0.54628646,22.32,Consumer Cyclical,12/17/2020, 6:00:00 PM,{"period":"0m","strongBuy":9,"buy":6,"hold":9,"sell":1,"strongSell":0}
+DXC,20157,9999,130,6,-9999,1.3821186,6.740845,9999,-0.35359263,24.85,Technology,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":9,"hold":7,"sell":0,"strongSell":0}
+DAL,20210,9999,174,9999,-9999,7.897825,9999,0.18,-0.2855186,42.62,Industrials,1/11/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":11,"hold":0,"sell":0,"strongSell":0}
+MRO,20273,9999,254,9999,-9999,0.5120766,9999,0.52,-0.46230006,7.3,Energy,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":8,"hold":13,"sell":2,"strongSell":0}
+COG,20331,9999,94,30,-9999,3.1984947,9.139785,9999,0.006512761,17.65,Energy,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":16,"hold":10,"sell":0,"strongSell":0}
+NCLH,20336,9999,333,9999,-9999,1.7874721,9999,0.08,-0.51992035,27.44,Consumer Cyclical,2/17/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":4,"hold":8,"sell":0,"strongSell":0}
+OXY,20349,9999,335,9999,-9999,1.9264109,9999,0.36,-0.4548539,21.31,Energy,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":15,"sell":1,"strongSell":1}
+EIX,20359,9999,136,126,-9999,1.7290273,13.77193,9999,-0.15135133,62.88,Utilities,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":4,"hold":7,"sell":0,"strongSell":0}
+HES,20359,9999,205,9999,-9999,2.920126,9999,0.95,-0.12337458,57.3,Energy,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":5,"hold":11,"sell":1,"strongSell":0}
+L,20401,44,256,9999,0.931,0.6912384,9999,9999,-0.14509499,43.66,Financial Services,2/7/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":0,"hold":3,"sell":0,"strongSell":0}
+MPC,20407,9999,263,9999,-9999,1.2441287,9999,1.86,-0.29366255,43.83,Energy,1/26/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":7,"hold":5,"sell":0,"strongSell":0}
+RCL,20407,9999,390,9999,-9999,1.9710758,9999,0.09,-0.3941363,80.64,Consumer Cyclical,2/1/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":7,"hold":5,"sell":0,"strongSell":0}
+AIV,20436,9999,16,9999,-9999,2.2998016,9999,23.93,-0.3625061,40.78,Real Estate,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":2,"hold":9,"sell":1,"strongSell":1}
+UAL,20472,9999,461,9999,-9999,2.009474,9999,0.09,-0.45436078,49.64,Industrials,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":11,"sell":1,"strongSell":0}
+FTI,20499,9999,381,117,-9999,1.0373311,13.619719,9999,-0.51528823,10.03,Energy,2/23/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":16,"hold":10,"sell":3,"strongSell":1}
+DVN,20504,9999,141,341,-9999,2.0473838,27.389832,9999,-0.32243186,16.57,Energy,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":10,"buy":13,"hold":9,"sell":0,"strongSell":0}
+XOM,20506,9999,125,363,-9999,1.0439508,29.199999,9999,-0.3742857,44.01,Energy,1/28/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":5,"hold":11,"sell":5,"strongSell":2}
+TAP,20515,9999,318,63,-9999,0.75853556,11.342925,9999,-0.09003466,48.21,Consumer Defensive,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":4,"sell":2,"strongSell":0}
+CF,20557,9999,89,379,-9999,2.9805436,30.757812,9999,-0.1601963,39.11,Basic Materials,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":4,"hold":9,"sell":2,"strongSell":0}
+DOW,20585,9999,154,230,-9999,3.2422695,19.636364,9999,-0.0031382442,54.43,Basic Materials,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":0,"sell":0,"strongSell":0}
+NLSN,20592,9999,356,67,-9999,3.355587,11.575758,9999,-0.044044018,18.96,Industrials,2/24/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":6,"hold":8,"sell":1,"strongSell":0}
+WDC,20605,9999,454,20,-9999,1.6219047,8.472636,9999,-0.09575224,51.61,Technology,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":15,"hold":7,"sell":0,"strongSell":0}
+INCY,20613,9999,230,270,-9999,7.4436917,21.796247,9999,-0.12259877,82.05,Healthcare,2/10/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":12,"hold":4,"sell":0,"strongSell":0}
+HAL,20653,9999,213,367,-9999,3.367295,29.597013,9999,-0.18562633,19.99,Energy,1/18/2021, 6:00:00 PM,{"period":"0m","strongBuy":11,"buy":23,"hold":3,"sell":1,"strongSell":0}
+VLO,20732,9999,450,9999,-9999,1.2522008,9999,3.49,-0.37954593,59.87,Energy,1/27/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":6,"hold":12,"sell":0,"strongSell":0}
+SLB,20749,9999,397,343,-9999,2.674283,27.638556,9999,-0.4177665,23.38,Energy,1/14/2021, 6:00:00 PM,{"period":"0m","strongBuy":7,"buy":19,"hold":11,"sell":0,"strongSell":0}
+SLG,20780,376,380,9999,-0.509,0.9224145,9999,9999,-0.30938917,61.95,Real Estate,1/19/2021, 6:00:00 PM,{"period":"0m","strongBuy":2,"buy":7,"hold":10,"sell":0,"strongSell":0}
+GE,20789,9999,206,380,-9999,2.9391625,30.999998,9999,-0.00089526176,11.32,Industrials,1/25/2021, 6:00:00 PM,{"period":"0m","strongBuy":5,"buy":2,"hold":6,"sell":3,"strongSell":1}
+MGM,20804,9999,272,9999,-9999,2.169974,9999,14.47,-0.08406681,30.93,Consumer Cyclical,2/9/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":9,"hold":4,"sell":0,"strongSell":0}
+VNO,20877,416,451,9999,-0.804,1.3304529,9999,9999,-0.40663713,39.71,Real Estate,2/15/2021, 6:00:00 PM,{"period":"0m","strongBuy":3,"buy":4,"hold":5,"sell":0,"strongSell":0}
+UA,20937,392,474,9999,-0.619,4.6691403,9999,9999,-0.18773532,15.39,Consumer Cyclical,4/24/2018, 7:00:00 PM,{"period":"0m","strongBuy":0,"buy":0,"hold":4,"sell":2,"strongSell":0}
+UDR,21026,9999,470,479,-9999,3.4369648,1907,9999,-0.1765976,38.33,Real Estate,2/8/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":4,"hold":15,"sell":1,"strongSell":1}
+HST,30254,9999,194,9999,-9999,1.5985459,9999,9999,-0.20580184,14.83,Real Estate,2/16/2021, 6:00:00 PM,{"period":"0m","strongBuy":4,"buy":3,"hold":11,"sell":3,"strongSell":0}
+NOV,30331,9999,321,9999,-9999,1.0174067,9999,9999,-0.39958072,14.66,Energy,2/3/2021, 6:00:00 PM,{"period":"0m","strongBuy":1,"buy":7,"hold":22,"sell":4,"strongSell":0}

@@ -1,27 +1,23 @@
 <html>
-
 <head>
-
 </head>
-
 
 <body>
     <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
     <script>
 
-
         //*************************************
         // Usage
-        // 
+        //
         // spdata is data grabbed from rapid api / yahoo finance. To update this data run the function getStocks()
         // getStocks will fetch all the s&p 500 company data, store it in a variable spdata and spit it out in a file.
-        // 
+        //
         // The s&p500 json dataset can be found here https://pkgstore.datahub.io/core/s-and-p-500-companies/constituents_json/data/64dd3e9582b936b0352fdd826ecd3c95/constituents_json.json
         // and here https://datahub.io/core/s-and-p-500-companies#data
-        // 
+        //
         // Execute sortAndValue() from the console to process spdata. Each company is rated based on three different
         // metrics: profit to book value, quarertly earnings, forwardEps minus trailingEps
-        // The lower rating the better. Each rating is summed to give the total rating. 
+        // The lower rating the better. Each rating is summed to give the total rating.
         //
         // For example all s&p500 companies are sorted by profitToBookValue ratio. The number 1 company recieves 1 point
         // the number 2 company recieves 2 points and so forth.
@@ -30,34 +26,26 @@
         // only recieved 3 points total but that's not realisitic. A low profit to book value means the company stock
         // price is under valued. If such a company also has good quarterly earnings growth and a good forward outlook
         // then it is super under valued. And that is the point of this exercise.
-        // 
+        //
         // The results of the processing are spit out to the console and downloaded as a cvs file
         //
         // Enjoy!
         //*************************************
 
-
-
         var settings = {
-            "url": "http://localhost/spdata.txt",
+            "url": "http://localhost:8000/spdata.txt",
             "method": "GET",
-
         }
-
         $.ajax(settings).done(function (response) {
             window.response = JSON.parse(response);
         });
-
         var spsettings = {
-            "url": "http://localhost/sp.txt",
+            "url": "http://localhost:8000/sp.txt",
             "method": "GET",
-
         }
-
-        $.ajax(spsettings).done(function (response) {
-            window.sp = JSON.parse(response);
+        $.ajax(spsettings).done(function (res) {
+            window.sp = JSON.parse(res);
         });
-
         //highly profitable that's also down
         window.profitable = function () {
             p = response.filter(function (a) {
@@ -69,7 +57,6 @@
             $.each(p, function (g, h) { console.log(h.symbol) })
         }
 
-
         //book value less than price!
         window.giveaway = function () {
             p = response.filter(function (a) {
@@ -80,7 +67,6 @@
             p = p.sort(function (a, b) { return a.defaultKeyStatistics.priceToBook.raw - b.defaultKeyStatistics.priceToBook.raw; })
             $.each(p, function (g, h) { console.log(h.symbol) })
         }
-
         //who is the brightest
         window.bestFuture = function () {
             p = response.filter(function (a) {
@@ -88,7 +74,6 @@
                     if (typeof a.defaultKeyStatistics.forwardEps !== 'undefined' && typeof a.defaultKeyStatistics.trailingEps !== 'undefined'
                         && a.defaultKeyStatistics.forwardEps.raw / a.defaultKeyStatistics.trailingEps.raw > 1.25 && a.defaultKeyStatistics.profitMargins.raw > 0.1 && a.defaultKeyStatistics.earningsQuarterlyGrowth.raw > 0
                     )
-
                         return a
                 } catch (ex) { }
             })
@@ -98,7 +83,6 @@
             })
             $.each(p, function (g, h) { console.log(h.symbol) })
         }
-
         //future is bright
         window.future = function () {
             p = response.filter(function (a) {
@@ -109,7 +93,6 @@
             p = p.sort(function (a, b) { return a.defaultKeyStatistics.forwardEps.raw - b.defaultKeyStatistics.forwardEps.raw; })
             $.each(p, function (g, h) { console.log(h.symbol) })
         }
-
         //future is dark
         window.dark = function () {
             p = response.filter(function (a) {
@@ -121,18 +104,13 @@
             $.each(p, function (g, h) { console.log(h.symbol) })
         }
 
-
-
         window.sortAndValue = function () {
-
-
 
             bestFutureValue = [];
             $.each(response, function (a, b) {
                 if (typeof b.defaultKeyStatistics === 'undefined') {
                     b.defaultKeyStatistics = {};
                 }
-
                 if (typeof b !== 'undefined' && typeof b.defaultKeyStatistics !== 'undefined') {
                     if (typeof b.defaultKeyStatistics.forwardPE === 'undefined' || typeof b.defaultKeyStatistics.forwardPE.raw === 'undefined') {
                         b.defaultKeyStatistics.forwardPE = {}
@@ -140,7 +118,6 @@
                     }
                     if (b.defaultKeyStatistics.forwardPE.raw <= 0)
                         b.defaultKeyStatistics.forwardPE.raw = 9999;
-
                     bestFutureValue.push(JSON.parse(JSON.stringify(b)))
                 }
             })
@@ -156,13 +133,11 @@
                 }
             })
 
-
             pegValue = [];
             $.each(response, function (a, b) {
                 if (typeof b.defaultKeyStatistics === 'undefined') {
                     b.defaultKeyStatistics = {};
                 }
-
                 if (typeof b !== 'undefined' && typeof b.defaultKeyStatistics !== 'undefined') {
                     if (typeof b.defaultKeyStatistics.pegRatio === 'undefined' || typeof b.defaultKeyStatistics.pegRatio.raw === 'undefined') {
                         b.defaultKeyStatistics.pegRatio = {}
@@ -170,7 +145,6 @@
                     }
                     if (b.defaultKeyStatistics.pegRatio.raw <= 0)
                         b.defaultKeyStatistics.pegRatio.raw = 9999;
-
 
                     pegValue.push(JSON.parse(JSON.stringify(b)))
                 }
@@ -187,18 +161,14 @@
                 }
             })
 
-
-
             f2WeekChange = [];
             $.each(response, function (a, b) {
                 if (typeof b.defaultKeyStatistics === 'undefined' || typeof b.defaultKeyStatistics["52WeekChange"] === 'undefined' || typeof b.defaultKeyStatistics["52WeekChange"].raw === 'undefined') {
                     b.defaultKeyStatistics = {};
                     b.defaultKeyStatistics["52WeekChange"] = {};
-                    b.defaultKeyStatistics["52WeekChange"].raw = 9999 
+                    b.defaultKeyStatistics["52WeekChange"].raw = 9999
                 }
-
                 f2WeekChange.push(JSON.parse(JSON.stringify(b)))
-
             })
             f2WeekChange = f2WeekChange.sort(function (a, b) {
                     return a.defaultKeyStatistics["52WeekChange"].raw - b.defaultKeyStatistics["52WeekChange"].raw;
@@ -210,7 +180,6 @@
                     b.value = 9999;
                 }
             })
-
 
             giveawayValue = [];
             $.each(response, function (a, b) {
@@ -233,7 +202,6 @@
                     b.value = 9999;
                 }
             })
-
             profitableValue = [];
             $.each(response, function (a, b) {
                 if (typeof b.defaultKeyStatistics === 'undefined') {
@@ -259,8 +227,6 @@
                 }
             })
 
-
-
             $.each(response, function (a, r) {
                 r._totalValue = 0;
                 r._profitableValue = 9999;
@@ -268,53 +234,43 @@
                 r._bestFutureValue = 9999;
                 r._pegRatioValue = 9999;
                 r._f2WeekChange = 9999;
-
                 $.each(f2WeekChange, function (a, b) {
                     if (r.symbol == b.symbol) {
                         r._f2WeekChange = b.value;
                     }
                 })
-
                 $.each(pegValue, function (a, b) {
                     if (r.symbol == b.symbol) {
                         r._pegRatioValue = b.value;
                     }
                 })
-
                 $.each(profitableValue, function (a, b) {
                     if (r.symbol == b.symbol) {
                         r._profitableValue = b.value;
                     }
                 })
-
                 $.each(giveawayValue, function (a, b) {
                     if (r.symbol == b.symbol) {
                         r._giveawayValue = b.value;
                     }
                 })
-
                 $.each(bestFutureValue, function (a, b) {
                     if (r.symbol == b.symbol) {
                         r._bestFutureValue = b.value;
                     }
                 })
-
                 r._totalValue = r._bestFutureValue + r._giveawayValue + r._profitableValue + r._pegRatioValue + r._f2WeekChange;
             })
-
             totalValue = response.filter(function (a) {
                 return a._totalValue > 0
             })
-
             totalValue = totalValue.sort(function (a, b) {
                 return a._totalValue - b._totalValue
             })
-
             undervalued = "";
             header = "Symbol, Total Value, Profitable Value, Giveaway Value, Best Future Value, earningsQuarterlyGrowth, priceToBook, forwardPE, pegRatio, 52WeekChange, marketPrice, Industry, earningsDate, recommendation\r\n";
             console.log(header)
             undervalued = undervalued + header;
-
             $.each(totalValue, function (a, b) {
                 if (typeof b.recommendationTrend !== 'undefined' && typeof b.recommendationTrend.trend !== 'undefined' && typeof b.recommendationTrend.trend[0] !== 'undefined') {
                     b.rec = JSON.stringify(b.recommendationTrend.trend[0]);
@@ -322,21 +278,15 @@
                 if (typeof b.earnings !== 'undefined' && typeof b.earnings.earningsChart !== 'undefined' && typeof b.earnings.earningsChart.earningsDate !== 'undefined' && typeof b.earnings.earningsChart.earningsDate[0] !== 'undefined' && typeof b.earnings.earningsChart.earningsDate[0].fmt !== 'undefined') {
                     b.earningsDate = b.earnings.earningsChart.earningsDate[0].fmt;
                 }
-
                 if (typeof b.symbol !== 'undefined' && typeof b._totalValue !== 'undefined' && typeof b._profitableValue !== 'undefined' && typeof b._giveawayValue !== 'undefined' && typeof b._bestFutureValue !== 'undefined' && typeof b.defaultKeyStatistics.earningsQuarterlyGrowth !== 'undefined' && typeof b.defaultKeyStatistics.priceToBook !== 'undefined' && typeof b.defaultKeyStatistics.trailingEps !== 'undefined' && typeof b.defaultKeyStatistics.forwardEps !== 'undefined') {
                     var row = b.symbol + "," + b._totalValue + "," + b._profitableValue + "," + b._giveawayValue + "," + b._bestFutureValue + "," + b.defaultKeyStatistics.earningsQuarterlyGrowth.raw + "," + b.defaultKeyStatistics.priceToBook.raw + "," + b.defaultKeyStatistics.forwardPE.raw + "," + b.defaultKeyStatistics.pegRatio.raw + "," + b.defaultKeyStatistics["52WeekChange"].raw + "," + b.summaryDetail.regularMarketPreviousClose.raw + "," + b.summaryProfile.sector + "," + b.earningsDate + "," + b.rec + "\r\n";
                     console.log(row);
                     undervalued = undervalued + row;
-
                 }
-
             })
-
             download(undervalued, 'undervalued.csv', 'text/plain');
 
-
         }
-
         alreadyRetried = false;
         // run this again to retry any failures
         getStocks = function () {
@@ -359,41 +309,47 @@
                     var settings = {
                         "async": true,
                         "crossDomain": true,
-                        "url": "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/get-detail?region=US&lang=en&symbol=" + s.Symbol,
+						"url": "https://query1.finance.yahoo.com/v10/finance/quoteSummary/" + s.Symbol + "?modules=defaultKeyStatistics",
                         "method": "GET",
                         "headers": {
-                            "x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com",
-                            "x-rapidapi-key": "7a2dd90730msh2aadd1c10a193e5p1476e6jsncb410a421497"
+							":authority": "query1.finance.yahoo.com",
+							":method": "GET",
+							":path": "/v10/finance/quoteSummary/" + s.Symbol + "?modules=defaultKeyStatistics",
+							":scheme": "https",
+							"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+							"accept-encoding": "gzip, deflate, br",
+							"accept-language": "en-US,en;q=0.9,de;q=0.8",
+							"cache-control": "max-age=0",
+							"cookie": "B=a48kp4dfk09gv&b=3&s=k8; A1=d=AQABBDn2R18CELh1B0F11DC5eYU4eXUpVkEFEgEBAgE9zF-0YNxA0iMA_SMAAAcIHyZAXyOZIqI&S=AQAAAlj6ops_m36V_684YMdz-Nk; A3=d=AQABBDn2R18CELh1B0F11DC5eYU4eXUpVkEFEgEBAgE9zF-0YNxA0iMA_SMAAAcIHyZAXyOZIqI&S=AQAAAlj6ops_m36V_684YMdz-Nk; A1S=d=AQABBDn2R18CELh1B0F11DC5eYU4eXUpVkEFEgEBAgE9zF-0YNxA0iMA_SMAAAcIHyZAXyOZIqI&S=AQAAAlj6ops_m36V_684YMdz-Nk&j=US; GUC=AQEBAgFfzD1gtEIddgRY; PRF=t%3DARNC%252BAPI",
+							"dnt": "1",
+							"sec-fetch-dest": "document",
+							"sec-fetch-mode": "navigate",
+							"sec-fetch-site": "none",
+							"sec-fetch-user": "?1",
+							"sec-gpc": "1",
+							"upgrade-insecure-requests": "1",
+							"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55",
                         }
                     }
-
-                    $.ajax(settings).done(function (response) {
+					$.ajax(settings).done(function (response) {
                         spdata.push(response)
                     });
-
                     if (spcount == 1) {
                         setTimeout(function () {
                             spdata = spdata.filter(function (a) { return typeof a.symbol !== 'undefined' })
-
                             if (!alreadyRetried) {
                                 alreadyRetried = true;
                                 console.log("bout to retry")
                                 getStocks();
                             } else {
                                 download(JSON.stringify(spdata), 'spdata.txt', 'text/plain');
-
                             }
                         }, 5000)
-
                     }
-
                 }, t);
 
-
             })
-
         }
-
         function download(strData, strFileName, strMimeType) {
             var D = document,
                 A = arguments,
@@ -401,18 +357,14 @@
                 d = A[0],
                 n = A[1],
                 t = A[2] || "text/plain";
-
             //build download link:
             a.href = "data:" + strMimeType + "charset=utf-8," + escape(strData);
-
 
             if (window.MSBlobBuilder) { // IE10
                 var bb = new MSBlobBuilder();
                 bb.append(strData);
                 return navigator.msSaveBlob(bb, strFileName);
             } /* end if(window.MSBlobBuilder) */
-
-
 
             if ('download' in a) { //FF20, CH19
                 a.setAttribute("download", n);
@@ -427,8 +379,6 @@
                 return true;
             }; /* end if('download' in a) */
 
-
-
             //do iframe dataURL download: (older W3)
             var f = D.createElement("iframe");
             D.body.appendChild(f);
@@ -439,9 +389,6 @@
             return true;
         }
 
-
     </script>
-
 </body>
-
 </html>

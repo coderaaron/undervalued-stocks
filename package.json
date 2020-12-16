@@ -1,0 +1,32 @@
+{
+  "name": "undervalued-stocks",
+  "version": "1.0.0",
+  "description": "A program to look for undervalued stocks in the S&P 500",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderaaron/undervalued-stocks.git"
+  },
+  "author": "Aaron Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderaaron/undervalued-stocks/issues"
+  },
+  "homepage": "https://github.com/coderaaron/undervalued-stocks#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "jsonfile": "^6.1.0",
+    "jssoup": "^0.0.12",
+    "lodash": "^4.17.20",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^7.3.0"
+  }
+}
