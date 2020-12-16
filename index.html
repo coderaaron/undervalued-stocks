@@ -12,16 +12,16 @@
 
         //*************************************
         // Usage
-        // 
+        //
         // spdata is data grabbed from rapid api / yahoo finance. To update this data run the function getStocks()
         // getStocks will fetch all the s&p 500 company data, store it in a variable spdata and spit it out in a file.
-        // 
+        //
         // The s&p500 json dataset can be found here https://pkgstore.datahub.io/core/s-and-p-500-companies/constituents_json/data/64dd3e9582b936b0352fdd826ecd3c95/constituents_json.json
         // and here https://datahub.io/core/s-and-p-500-companies#data
-        // 
+        //
         // Execute sortAndValue() from the console to process spdata. Each company is rated based on three different
         // metrics: profit to book value, quarertly earnings, forwardEps minus trailingEps
-        // The lower rating the better. Each rating is summed to give the total rating. 
+        // The lower rating the better. Each rating is summed to give the total rating.
         //
         // For example all s&p500 companies are sorted by profitToBookValue ratio. The number 1 company recieves 1 point
         // the number 2 company recieves 2 points and so forth.
@@ -30,7 +30,7 @@
         // only recieved 3 points total but that's not realisitic. A low profit to book value means the company stock
         // price is under valued. If such a company also has good quarterly earnings growth and a good forward outlook
         // then it is super under valued. And that is the point of this exercise.
-        // 
+        //
         // The results of the processing are spit out to the console and downloaded as a cvs file
         //
         // Enjoy!
@@ -194,7 +194,7 @@
                 if (typeof b.defaultKeyStatistics === 'undefined' || typeof b.defaultKeyStatistics["52WeekChange"] === 'undefined' || typeof b.defaultKeyStatistics["52WeekChange"].raw === 'undefined') {
                     b.defaultKeyStatistics = {};
                     b.defaultKeyStatistics["52WeekChange"] = {};
-                    b.defaultKeyStatistics["52WeekChange"].raw = 9999 
+                    b.defaultKeyStatistics["52WeekChange"].raw = 9999
                 }
 
                 f2WeekChange.push(JSON.parse(JSON.stringify(b)))
@@ -358,13 +358,9 @@
                     console.log(s.Symbol);
                     var settings = {
                         "async": true,
-                        "crossDomain": true,
-                        "url": "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/get-detail?region=US&lang=en&symbol=" + s.Symbol,
+						"crossDomain": true,
+						"url": 'https://query1.finance.yahoo.com/v10/finance/quoteSummary/' + s.Symbol + '?modules=defaultKeyStatistics,summaryDetail,recommendationTrend,earnings,summaryProfile&formatted=false',
                         "method": "GET",
-                        "headers": {
-                            "x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com",
-                            "x-rapidapi-key": "7a2dd90730msh2aadd1c10a193e5p1476e6jsncb410a421497"
-                        }
                     }
 
                     $.ajax(settings).done(function (response) {
